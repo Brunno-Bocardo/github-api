@@ -1,6 +1,6 @@
 <div align = "center">
   <img height="150em" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-  <h1>GitHub API</h1>
+  <h1>GitHub Profile</h1>
 </div>
 
 <br>
