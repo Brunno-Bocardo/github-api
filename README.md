@@ -1,5 +1,5 @@
 <div align = "center">
-  <img height="150em" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"/>
+  <img height="150em" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
   <h1>GitHub API</h1>
 </div>
 
